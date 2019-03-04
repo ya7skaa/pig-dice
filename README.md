@@ -1,5 +1,5 @@
 # PIG DICE
-#### Pig Dice, February 15th 2019
+#### Pig Dice, March 4th 2019
 #### By **Yasmin Abdirahman**
 ## Description
 Pig Dice is a web app of a game that to Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
