@@ -19,7 +19,7 @@ The first player to score 100 or more points wins.
 | The player will click a roll button, and their result will display.| Click | Generated points |
 | The player will click a roll button and receive any number other than one, and can choose to hold their turn.| Click | Hold |
 | The player will hold, their turn will end while their points are added to their total score.| Click| Turn ends|
-| The player will roll, if their points will total or exceed  100, the player wins the game. | Click | Winner alert |
+| The player will roll, if their points will total or exceed  100, the player wins the game. | Click | Winner alert|
 
 
 ## Setup/Installation Requirements
