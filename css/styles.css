@@ -1,29 +1,33 @@
-.jumbotron{
+.jumbotron {
   text-align: center;
-background-color: #ffebd3;
-
+  background-color: #ffebd3;
 }
-#heading1{
+
+#heading1 {
   text-decoration: underline;
   color: #264e70;
 }
-#heading2{
+
+#heading2 {
   font-style: italic;
   font-size: 20px;
   color: #c7004c;
 }
-.well{
-  background-color: #ffebd3;
 
+.well {
+  background-color: #ffebd3;
 }
-body{
+
+body {
   color: #679186;
   background-color: #ffb4ac;
 }
-h3{
+
+h3 {
   text-decoration: underline;
   text-align: center;
 }
-.text-box{
+
+.text-box {
   border: 2px solid #c5c5c5;
 }
