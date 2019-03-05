@@ -27,3 +27,8 @@ h3{
 .text-box{
   border: 2px solid #c5c5c5;
 }
+#newRound{
+  margin-left: 40% ;
+  margin-right:40%;
+  width: 20%
+}
